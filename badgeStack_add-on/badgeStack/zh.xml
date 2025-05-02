@@ -224,6 +224,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5ABDBB39D1F9C589030E34ABCDC03A10</StringID>
+	<SourceText>Web</SourceText>
+	<TargetText>Web</TargetText>
+	<Comment>com.fmi.calculation.text.Web</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.5DF961979BCF99311F24F8E976EE5CA0</StringID>
 	<SourceText>&apos; y=&apos;</SourceText>
 	<TargetText>&apos; y=&apos;</TargetText>
@@ -431,6 +438,13 @@
 	<SourceText>radius</SourceText>
 	<TargetText>radius</TargetText>
 	<Comment>com.fmi.calculation.text.radius</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B613EA7ED210F1B43EB9CF2D7C456F36</StringID>
+	<SourceText>data:image/svg+xml;base64,</SourceText>
+	<TargetText>data:image/svg+xml;base64,</TargetText>
+	<Comment>com.fmi.calculation.text.data:image/svg+xml;base64,</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
