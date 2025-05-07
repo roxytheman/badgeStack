@@ -56,6 +56,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.1EE6F78E33554F6114399F9607ED4969</StringID>
+	<SourceText>&lt;/body&gt;<CR/><TAB/><TAB/><TAB/><TAB/>&lt;/html&gt;</SourceText>
+	<TargetText>&lt;/body&gt;<CR/><TAB/><TAB/><TAB/><TAB/>&lt;/html&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;/body&gt;_CR/__TAB/__TAB/__TAB/__TAB/_&lt;/html&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.2004865D334EEEA246A3297AF3F25352</StringID>
 	<SourceText>bold</SourceText>
 	<TargetText>bold</TargetText>
@@ -105,6 +112,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.30C2E584B090C55971EEC946D9AB6028</StringID>
+	<SourceText>, user-scalable=no\&quot;&gt;<CR/><TAB/><TAB/><TAB/><TAB/>  &lt;body style=\&quot;margin:0;padding:0;background:#</SourceText>
+	<TargetText>, user-scalable=no\&quot;&gt;<CR/><TAB/><TAB/><TAB/><TAB/>  &lt;body style=\&quot;margin:0;padding:0;background:#</TargetText>
+	<Comment>com.fmi.calculation.text., user-scalable=no\&quot;&gt;_CR/__TAB/__TAB/__TAB/__TAB/_  &lt;body style=\&quot;margin:0;padding:0;background:#</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.31330BE6160A6C29AF91E6D7AD142551</StringID>
 	<SourceText>defaultArray</SourceText>
 	<TargetText>defaultArray</TargetText>
@@ -119,10 +133,17 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.4161BF06CC32D086B2B781AA6FAC0E37</StringID>
-	<SourceText>&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;</SourceText>
-	<TargetText>&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;</TargetText>
-	<Comment>com.fmi.calculation.text.&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;</Comment>
+	<StringID>com.fmi.calculation.text.3F4C9C26D5FD963BF8C2DF8E8939281F</StringID>
+	<SourceText>wv_badgeStack_D12C2D68-0EEC-4994-81C3-40969648CF18</SourceText>
+	<TargetText>wv_badgeStack_D12C2D68-0EEC-4994-81C3-40969648CF18</TargetText>
+	<Comment>com.fmi.calculation.text.wv_badgeStack_D12C2D68-0EEC-4994-81C3-40969648CF18</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.3FA974089A805D9B26119D08F17421CF</StringID>
+	<SourceText>&lt;svg xmlns=\&quot;http://www.w3.org/2000/svg\&quot; style=\&quot;width:100%;height:100%; \&quot;viewBox=\&quot;0 0 </SourceText>
+	<TargetText>&lt;svg xmlns=\&quot;http://www.w3.org/2000/svg\&quot; style=\&quot;width:100%;height:100%; \&quot;viewBox=\&quot;0 0 </TargetText>
+	<Comment>com.fmi.calculation.text.&lt;svg xmlns=\&quot;http://www.w3.org/2000/svg\&quot; style=\&quot;width:100%;height:100%; \&quot;viewBox=\&quot;0 0</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -130,6 +151,13 @@
 	<SourceText> BADGE STACK<CR/></SourceText>
 	<TargetText> BADGE STACK<CR/></TargetText>
 	<Comment>com.fmi.calculation.text. BADGE STACK_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.43E393915488E7CE6282A8D1C9345FE2</StringID>
+	<SourceText> V 1.3</SourceText>
+	<TargetText> V 1.3</TargetText>
+	<Comment>com.fmi.calculation.text. V 1.3</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -259,6 +287,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.741CAD0E9C88DEA0226D1E2E08C5473D</StringID>
+	<SourceText>;\&quot;&gt;</SourceText>
+	<TargetText>;\&quot;&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.;\&quot;&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.755B1DC5E8D140BCA62DEB24CCBD4D06</StringID>
 	<SourceText><TAB/><CR/></SourceText>
 	<TargetText><TAB/><CR/></TargetText>
@@ -301,13 +336,6 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.87A05D623C4196F46B4E67E5FC0A5B56</StringID>
-	<SourceText>wv_pillCloud_D12C2D68-0EEC-4994-81C3-40969648CF18</SourceText>
-	<TargetText>wv_pillCloud_D12C2D68-0EEC-4994-81C3-40969648CF18</TargetText>
-	<Comment>com.fmi.calculation.text.wv_pillCloud_D12C2D68-0EEC-4994-81C3-40969648CF18</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.8967E474E567D8A869E20AF4B21032D8</StringID>
 	<SourceText>&apos; cy=&apos;</SourceText>
 	<TargetText>&apos; cy=&apos;</TargetText>
@@ -326,13 +354,6 @@
 	<SourceText><TAB/>JSONSetElement ( &quot;&quot; ; <CR/></SourceText>
 	<TargetText><TAB/>JSONSetElement ( &quot;&quot; ; <CR/></TargetText>
 	<Comment>com.fmi.calculation.text._TAB/_JSONSetElement ( &quot;&quot; ; _CR/_</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.967B3F0BD49D238FE9129FDBF3C2821A</StringID>
-	<SourceText>&apos; viewBox=&apos;0 0 </SourceText>
-	<TargetText>&apos; viewBox=&apos;0 0 </TargetText>
-	<Comment>com.fmi.calculation.text.&apos; viewBox=&apos;0 0</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -406,6 +427,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.AEE77D83675800794E2F2A95905D4E56</StringID>
+	<SourceText>\&quot; preserveAspectRatio=\&quot;xMidYMid meet\&quot;&gt;</SourceText>
+	<TargetText>\&quot; preserveAspectRatio=\&quot;xMidYMid meet\&quot;&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.\&quot; preserveAspectRatio=\&quot;xMidYMid meet\&quot;&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.AF00F351C15C4CFED6996E8722B2DF55</StringID>
 	<SourceText>width</SourceText>
 	<TargetText>width</TargetText>
@@ -427,6 +455,20 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B0FF5FB12BBC97BAF49DC09388F82E04</StringID>
+	<SourceText>data:text/html,</SourceText>
+	<TargetText>data:text/html,</TargetText>
+	<Comment>com.fmi.calculation.text.data:text/html,</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B2F8405A9E1D6D6496E4F296D1E2F0D1</StringID>
+	<SourceText>&lt;html&gt;<CR/><TAB/><TAB/><TAB/><TAB/>&lt;meta name=\&quot;viewport\&quot; content=\&quot;width=device-width, initial-scale=</SourceText>
+	<TargetText>&lt;html&gt;<CR/><TAB/><TAB/><TAB/><TAB/>&lt;meta name=\&quot;viewport\&quot; content=\&quot;width=device-width, initial-scale=</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;html&gt;_CR/__TAB/__TAB/__TAB/__TAB/_&lt;meta name=\&quot;viewport\&quot; content=\&quot;width=device-width, initial-scale=</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.B3621A94D18F5DA8D34B95BB1C457EA1</StringID>
 	<SourceText>#3fcfd0</SourceText>
 	<TargetText>#3fcfd0</TargetText>
@@ -438,6 +480,13 @@
 	<SourceText>radius</SourceText>
 	<TargetText>radius</TargetText>
 	<Comment>com.fmi.calculation.text.radius</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B593E1763EC8BA57ECB83A37A12AE170</StringID>
+	<SourceText>, maximum-scale=</SourceText>
+	<TargetText>, maximum-scale=</TargetText>
+	<Comment>com.fmi.calculation.text., maximum-scale=</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -480,6 +529,13 @@
 	<SourceText>#FFFFFF</SourceText>
 	<TargetText>#FFFFFF</TargetText>
 	<Comment>com.fmi.calculation.text.#FFFFFF</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C98026E2BBA8F9F32D58B73D7FC2688D</StringID>
+	<SourceText> Round( 100 / Get ( WindowZoomLevel ) ; 0 ) ;<CR/></SourceText>
+	<TargetText> Round( 100 / Get ( WindowZoomLevel ) ; 0 ) ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Round( 100 / Get ( WindowZoomLevel ) ; 0 ) ;_CR/_</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -532,13 +588,6 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.DABFD27173C21E478BB227F2E919F378</StringID>
-	<SourceText> V 1.0</SourceText>
-	<TargetText> V 1.0</TargetText>
-	<Comment>com.fmi.calculation.text. V 1.0</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.DD9C7FE4322D7F60662AE8FF7CCCA5F7</StringID>
 	<SourceText>badge[:]color.background</SourceText>
 	<TargetText>badge[:]color.background</TargetText>
@@ -557,6 +606,13 @@
 	<SourceText>badgeArray</SourceText>
 	<TargetText>badgeArray</TargetText>
 	<Comment>com.fmi.calculation.text.badgeArray</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E0ECE08AC543EE713C8A3805E3EB77A4</StringID>
+	<SourceText>&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;100%&apos; height=&apos;100%&apos; viewBox=&apos;0 0 </SourceText>
+	<TargetText>&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;100%&apos; height=&apos;100%&apos; viewBox=&apos;0 0 </TargetText>
+	<Comment>com.fmi.calculation.text.&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;100%&apos; height=&apos;100%&apos; viewBox=&apos;0 0</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
